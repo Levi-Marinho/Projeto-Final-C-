@@ -1,0 +1,15 @@
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\bin\Debug\net6.0\ProjetoC#.exe
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\bin\Debug\net6.0\ProjetoC#.deps.json
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\bin\Debug\net6.0\ProjetoC#.runtimeconfig.json
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\bin\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\bin\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.csproj.AssemblyReference.cache
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\refint\ProjetoC#.dll
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ProjetoC#.genruntimeconfig.cache
+C:\Users\Levi_\Documents\projeto_c#_aline\projeto_aline_v2\projeto_v2\obj\Debug\net6.0\ref\ProjetoC#.dll
