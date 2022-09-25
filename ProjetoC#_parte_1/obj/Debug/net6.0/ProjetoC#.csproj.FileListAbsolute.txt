@@ -1,0 +1,45 @@
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.exe
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.deps.json
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.runtimeconfig.json
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.dll
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.pdb
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.AssemblyReference.cache
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.dll
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\refint\ProjetoC#.dll
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.pdb
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.genruntimeconfig.cache
+C:\Users\cwart\OneDrive\Documentos\projeto-aline\ProjetoC#\obj\Debug\net6.0\ref\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.exe
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.deps.json
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.runtimeconfig.json
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\bin\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.AssemblyReference.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\refint\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ProjetoC#.genruntimeconfig.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\projeto-aline\ProjetoC#\obj\Debug\net6.0\ref\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.AssemblyReference.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfoInputs.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.AssemblyInfo.cs
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.csproj.CoreCompileInputs.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\refint\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\bin\Debug\net6.0\ProjetoC#.exe
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\bin\Debug\net6.0\ProjetoC#.deps.json
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\bin\Debug\net6.0\ProjetoC#.runtimeconfig.json
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\bin\Debug\net6.0\ProjetoC#.dll
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\bin\Debug\net6.0\ProjetoC#.pdb
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ProjetoC#.genruntimeconfig.cache
+C:\Users\Levi_\OneDrive\Área de Trabalho\project_LEVI\ProjetoC#\obj\Debug\net6.0\ref\ProjetoC#.dll
